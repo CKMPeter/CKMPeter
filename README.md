@@ -1,4 +1,4 @@
-👋🏼 Hello World!, I'm Peter, a Web Developer
+# 👋🏼 Hello World!, I'm Peter, a Web Developer
 
 👨🏼‍🎓 Studying at Ho Chi Minh College of Technology and Education, majoring in Information Technology <br>
 
